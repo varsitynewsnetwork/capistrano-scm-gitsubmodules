@@ -1,4 +1,4 @@
-# Git submodules support for capistrano 3
+# Submodules for capistrano 3
 
 ## Installation
 
