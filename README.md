@@ -4,11 +4,15 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'capistrano-scm-gitsubmodules', github: 'juanibiapina/capistrano-scm-gitsubmodules'
+    gem 'capistrano-scm-gitsubmodules'
 
 And then execute:
 
     $ bundle
+
+Or install it yourself as:
+
+    $ gem install capistrano-scm-gitsubmodules
 
 ## Usage
 
