@@ -1,5 +1,9 @@
 # Submodules for capistrano 3
 
+# WARNING: Deprecated
+
+This module has been deprecated with capistrano 3.1.0. Try this instead: https://gist.github.com/stevenscg/8176735
+
 ## Installation
 
 Add this line to your application's Gemfile:
